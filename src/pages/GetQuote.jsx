@@ -18,6 +18,7 @@ import {
 import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
 import Button from "../components/Button";
+import { siteConfig } from "../config/site";
 
 const GetQuote = () => {
   const [formData, setFormData] = useState({
@@ -673,21 +674,16 @@ const GetQuote = () => {
             Not sure which service is right for you? Let's discuss your project!
           </p>
           <div className="flex flex-wrap justify-center gap-4">
-            <Button href="/#contact">
+            <Button href={`mailto:${siteConfig.email}`}>
               <Mail className="w-5 h-5 inline-block mr-2" />
               Email Us
             </Button>
-            <Button variant="secondary" href="tel:+1234567890">
-              <Phone className="w-5 h-5 inline-block mr-2" />
-              Call Us
-            </Button>
             <Button
               variant="secondary"
-              href="https://wa.me/1234567890"
-              target="_blank"
+              href={`mailto:${siteConfig.supportEmail}`}
             >
-              <MessageSquare className="w-5 h-5 inline-block mr-2" />
-              WhatsApp
+              <Mail className="w-5 h-5 inline-block mr-2" />
+              Support Email
             </Button>
           </div>
         </motion.div>

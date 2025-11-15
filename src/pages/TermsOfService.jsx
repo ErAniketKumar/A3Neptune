@@ -121,10 +121,10 @@ const TermsOfService = () => {
                 For any questions, contact us at:
               </p>
               <a
-                href="mailto:aniketshraff@gmail.com"
+                href="mailto:support@a3neptune.kalawatiputra.com"
                 className="text-yellow-400 hover:text-yellow-300 text-xl font-semibold transition-colors"
               >
-                aniketshraff@gmail.com
+                support@a3neptune.kalawatiputra.com
               </a>
             </div>
           </div>

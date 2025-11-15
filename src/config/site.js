@@ -3,7 +3,8 @@ export const siteConfig = {
   description: "AI-Powered Full-Stack Solutions for Modern Businesses",
   tagline:
     "We build stunning full-stack applications, portfolios, learning apps, e-commerce platforms, AI-integrated systems, and enterprise-grade websites.",
-  email: "a3neptuneofficial@gmail.com",
+  email: "contact@a3neptune.kalawatiputra.com",
+  supportEmail: "support@a3neptune.kalawatiputra.com",
 
   social: {
     github: "https://github.com/a3neptune",
