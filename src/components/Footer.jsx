@@ -1,4 +1,5 @@
 import { motion } from "framer-motion";
+import { Link } from "react-router-dom";
 import { Github, Linkedin } from "lucide-react";
 import { siteConfig } from "../config/site";
 
@@ -53,12 +54,18 @@ const Footer = () => {
           </div>
 
           <div className="flex items-center gap-6 text-sm text-gray-400">
-            <a href="#" className="hover:text-yellow-400 transition-colors">
+            <Link
+              to="/privacy-policy"
+              className="hover:text-yellow-400 transition-colors"
+            >
               Privacy Policy
-            </a>
-            <a href="#" className="hover:text-yellow-400 transition-colors">
+            </Link>
+            <Link
+              to="/terms-of-service"
+              className="hover:text-yellow-400 transition-colors"
+            >
               Terms
-            </a>
+            </Link>
             <a
               href="#contact"
               className="hover:text-yellow-400 transition-colors"

@@ -26,6 +26,8 @@ import UIUXDesign from "./pages/services/UIUXDesign";
 
 // Other Pages
 import GetQuote from "./pages/GetQuote";
+import PrivacyPolicy from "./pages/PrivacyPolicy";
+import TermsOfService from "./pages/TermsOfService";
 
 // Home Page Component
 const HomePage = () => (
@@ -108,6 +110,10 @@ function App() {
 
         {/* Get Quote Page */}
         <Route path="/get-quote" element={<GetQuote />} />
+
+        {/* Legal Pages */}
+        <Route path="/privacy-policy" element={<PrivacyPolicy />} />
+        <Route path="/terms-of-service" element={<TermsOfService />} />
       </Routes>
     </div>
   );
