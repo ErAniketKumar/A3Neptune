@@ -119,10 +119,10 @@ const PrivacyPolicy = () => {
                 For any privacy concerns, reach us at:
               </p>
               <a
-                href="mailto:support@a3neptune.kalawatiputra.com"
+                href="mailto:kalawatiputra@gmail.com"
                 className="text-yellow-400 hover:text-yellow-300 text-xl font-semibold transition-colors"
               >
-                support@a3neptune.kalawatiputra.com
+                kalawatiputra@gmail.com
               </a>
             </div>
           </div>

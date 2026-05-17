@@ -49,9 +49,9 @@ const About = () => {
           transition={{ duration: 0.8, delay: 0.2 }}
         >
           {[
-            { value: "50+", label: "Projects Delivered" },
-            { value: "25+", label: "Happy Clients" },
-            { value: "5+", label: "Team Members" },
+            { value: "40+", label: "Projects Delivered" },
+            { value: "35+", label: "Happy Clients" },
+            { value: "10+", label: "Team Members" },
             { value: "100%", label: "Client Satisfaction" },
           ].map((stat, index) => (
             <motion.div

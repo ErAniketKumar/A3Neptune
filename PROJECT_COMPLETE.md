@@ -24,7 +24,7 @@ The website is currently running and fully functional. Open the URL above to see
 - [x] **Space Theme** - Neptune aesthetics with black, white, and yellow
 - [x] **9 Complete Sections** - Hero, About, Services, CTA, Portfolio, Team, Contact, Footer
 - [x] **12 Services Listed** - All your service offerings beautifully displayed
-- [x] **5 Team Members** - Professional team cards with social links
+- [x] **3 Team Members** - Professional team cards with social links
 - [x] **SEO Optimized** - Meta tags, Open Graph, Twitter Cards
 - [x] **Custom Animations** - Space particles, floating shapes, hover effects
 - [x] **Contact Form** - Professional form with service dropdown
@@ -131,13 +131,11 @@ aneptune/
 
 ## 👥 TEAM SECTION
 
-All 5 team members included:
+All 3 team members included:
 
 - Aniket Kumar
 - Akshat Angra
 - Ansh Sharma
-- Manav Pathania
-- Harsh
 
 Each with LinkedIn and Portfolio links (ready to customize)
 
@@ -145,7 +143,7 @@ Each with LinkedIn and Portfolio links (ready to customize)
 
 ## 📧 CONTACT INFORMATION
 
-- **Email**: a3neptuneofficial@gmail.com
+- **Email**: kalawatiputra@gmail.com
 - **GitHub**: Linked and ready
 - **Upwork**: "Hire Us" CTAs throughout
 - **LinkedIn**: Company page linked

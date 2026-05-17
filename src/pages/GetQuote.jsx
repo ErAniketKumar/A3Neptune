@@ -215,8 +215,8 @@ const GetQuote = () => {
           {/* Quick Stats */}
           <div className="grid grid-cols-2 md:grid-cols-4 gap-6 mb-12">
             {[
-              { label: "Projects Delivered", value: "150+" },
-              { label: "Happy Clients", value: "120+" },
+              { label: "Projects Delivered", value: "40+" },
+              { label: "Happy Clients", value: "35+" },
               { label: "Average Rating", value: "4.9/5" },
               { label: "Response Time", value: "< 24hrs" },
             ].map((stat, index) => (

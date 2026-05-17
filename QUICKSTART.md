@@ -53,7 +53,7 @@ npm run preview   # Preview build
 3. Services - 12 service cards
 4. Freelance CTA - Hiring section
 5. Portfolio - Project showcase
-6. Team - 5 team members
+6. Team - 3 team members
 7. Contact - Form + info
 8. Footer - Social links
 
@@ -69,7 +69,7 @@ npm run preview   # Preview build
 
 ## 📧 Contact Setup
 
-Email: a3neptuneofficial@gmail.com
+Email: kalawatiputra@gmail.com
 Update in: `src/config/site.js`
 
 ## 🚀 Deploy Checklist

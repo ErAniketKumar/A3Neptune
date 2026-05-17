@@ -3,8 +3,8 @@ export const siteConfig = {
   description: "AI-Powered Full-Stack Solutions for Modern Businesses",
   tagline:
     "We build stunning full-stack applications, portfolios, learning apps, e-commerce platforms, AI-integrated systems, and enterprise-grade websites.",
-  email: "contact@a3neptune.kalawatiputra.com",
-  supportEmail: "support@a3neptune.kalawatiputra.com",
+  email: "kalawatiputra@gmail.com",
+  supportEmail: "kalawatiputra@gmail.com",
 
   social: {
     github: "https://github.com/a3neptune",
@@ -15,8 +15,8 @@ export const siteConfig = {
   team: [
     {
       name: "Aniket Kumar",
-      linkedin: "https://www.linkedin.com/in/eraniket/",
-      portfolio: "https://eraniket.netlify.app/",
+      linkedin: "#",
+      portfolio: "#",
     },
     {
       name: "Akshat Angra",
@@ -25,16 +25,6 @@ export const siteConfig = {
     },
     {
       name: "Ansh Sharma",
-      linkedin: "#",
-      portfolio: "#",
-    },
-    {
-      name: "Manav Pathania",
-      linkedin: "#",
-      portfolio: "#",
-    },
-    {
-      name: "Harsh",
       linkedin: "#",
       portfolio: "#",
     },

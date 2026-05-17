@@ -63,7 +63,7 @@ src/
 4. **Services** - 12 services in animated cards
 5. **Freelance CTA** - Special hiring section with multiple CTAs
 6. **Portfolio** - Filterable project grid (6 categories)
-7. **Team** - 5 team members with social links
+7. **Team** - 3 team members with social links
 8. **Contact** - Professional form + contact information
 9. **Footer** - Minimal footer with social icons
 
@@ -87,8 +87,6 @@ src/
 - Aniket Kumar
 - Akshat Angra
 - Ansh Sharma
-- Manav Pathania
-- Harsh
 
 ## 🛠️ Technologies Used
 
@@ -165,7 +163,7 @@ npm run lint
 
 ## 📧 Contact Information
 
-- **Email**: a3neptuneofficial@gmail.com
+- **Email**: kalawatiputra@gmail.com
 - **GitHub**: https://github.com/a3neptune
 - **LinkedIn**: https://linkedin.com/company/a3neptune
 - **Upwork**: Available for hire
