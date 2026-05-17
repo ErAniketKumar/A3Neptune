@@ -15,8 +15,8 @@ export const siteConfig = {
   team: [
     {
       name: "Aniket Kumar",
-      linkedin: "#",
-      portfolio: "#",
+      linkedin: "https://www.linkedin.com/in/eraniket/",
+      portfolio: "https://eraniket.netlify.app/",
     },
     {
       name: "Akshat Angra",
