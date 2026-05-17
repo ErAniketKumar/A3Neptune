@@ -5,6 +5,7 @@ export const siteConfig = {
     "We build stunning full-stack applications, portfolios, learning apps, e-commerce platforms, AI-integrated systems, and enterprise-grade websites.",
   email: "kalawatiputra@gmail.com",
   supportEmail: "kalawatiputra@gmail.com",
+  phone: "+91 94595 65203",
 
   social: {
     github: "https://github.com/a3neptune",

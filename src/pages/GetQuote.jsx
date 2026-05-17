@@ -685,6 +685,13 @@ const GetQuote = () => {
               <Mail className="w-5 h-5 inline-block mr-2" />
               Support Email
             </Button>
+            <Button
+              variant="secondary"
+              href={`tel:${siteConfig.phone.replace(/\s+/g, '')}`}
+            >
+              <Phone className="w-5 h-5 inline-block mr-2" />
+              Call Us
+            </Button>
           </div>
         </motion.div>
       </section>

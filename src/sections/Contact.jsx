@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import { Send, Mail, Github, Briefcase, Linkedin } from "lucide-react";
+import { Send, Mail, Phone, Github, Briefcase, Linkedin } from "lucide-react";
 import { useState } from "react";
 import SectionTitle from "../components/SectionTitle";
 import Button from "../components/Button";
@@ -175,6 +175,22 @@ const Contact = () => {
                       Email (Support)
                     </div>
                     <div className="text-lg">{siteConfig.supportEmail}</div>
+                  </div>
+                </motion.a>
+
+                <motion.a
+                  href={`tel:${siteConfig.phone.replace(/\s+/g, '')}`}
+                  className="flex items-center gap-4 text-gray-300 hover:text-yellow-400 transition-colors"
+                  whileHover={{ x: 5 }}
+                >
+                  <div className="w-12 h-12 bg-yellow-400/10 rounded-lg flex items-center justify-center">
+                    <Phone className="text-yellow-400" size={24} />
+                  </div>
+                  <div>
+                    <div className="text-sm text-gray-500 mb-1">
+                      Phone Number
+                    </div>
+                    <div className="text-lg">{siteConfig.phone}</div>
                   </div>
                 </motion.a>
 
